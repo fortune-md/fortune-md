@@ -1,4 +1,4 @@
-[hi there]
+[hi there am fortune]
 [Am looking forward to learn about machine langauge in order to know much ]
 Here are some ideas to get you started
 - [🌱 I’m currently learning Ai]
