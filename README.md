@@ -1,16 +1,11 @@
-## Hi there 👋
+[hi there]
+[Am looking forward to learn about machine langauge in order to know much ]
+Here are some ideas to get you started
+- [🌱 I’m currently learning Ai]
+- [👯 I’m looking to collaborate with diffrent IT specialist]
+- [🤔 I’m looking for help with machine language]
+  
+- [📫 How to reach me:fortu7792@gmail.com]
 
-<!--
-**fortune-md/fortune-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [⚡ Fun fact:i love to talk to animals]
+-"-Add my profile README"
